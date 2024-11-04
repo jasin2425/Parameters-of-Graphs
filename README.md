@@ -1,1 +1,2 @@
 # Parameters-of-Graphs
+In this code, I present several properties of graphs: the degree sequence; the number of components; bipartiteness; the eccentricity of vertices (within the components);vertices colours (consecutive natural numbers from 1) obtained using algorithms: greedy (the vertex order according to its number) LF method (ties are solved by the vertex number);the number of the graph complement's edges
